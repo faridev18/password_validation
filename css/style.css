@@ -58,6 +58,7 @@ body {
   color:;
 }*/
 
+
 .container-form .block-input input.invalide {
   border-color: red;
 }
@@ -84,4 +85,8 @@ body {
 
 .container-form .validator-criters span.succes {
   color: green;
+}
+
+p{
+  text-align: justify;
 }
